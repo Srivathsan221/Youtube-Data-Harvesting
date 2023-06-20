@@ -5,6 +5,9 @@
 
 --> The purpose of the project is to extract a particular youtube channel data by using the youtube channel id, processes the data, and stores it in the MongoDB database. It has the option to migrate the data to MySQL from MongoDB then analyse the data and give the results depending on the customer questions.
 
+![How-Does-YouTube-Store-And-Analyze-Such-Huge-Amount-of-Data-min](https://github.com/Srivathsan221/Youtube-Data-Harvesting/assets/61115411/59c886f1-7b6d-49ec-8256-8af6b7bd9612)
+
+
 # Steps
 -> Extract the channel data (number of videos,number of comments,likes,dislikes.. ) from the respective channel and store it in Mongodb      database.
 -> Convert the stored data in Mongodb to MySQL table format.
